@@ -15,6 +15,7 @@ body {
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
 font-family: 'Itim', cursive;
 font-family: 'Libre Baskerville', serif;
+background-color: #d0dce7;
 }
 
 html {
@@ -22,7 +23,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(38, 67, 105);
 }
 
 /* TRANSITION */
@@ -54,7 +55,7 @@ nav {
   border-radius: 5%
 }
 a {
-  color: black;
+  color: rgb(29, 28, 28);
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -368,7 +369,7 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(170, 170, 170);
   background:#35809B;
 }
 
@@ -401,8 +402,8 @@ article .icon {
   display: flex;
   justify-content: center;
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(244, 252, 255);
+  border: rgb(49, 49, 49) 0.1rem solid;
+  border-color: rgb(38, 120, 150);
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
