@@ -1,6 +1,10 @@
 /* GENERAL */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&family=Itim&family=Libre+Baskerville&display=swap');
+
+
+
 
 * {
   margin: 0;
@@ -8,7 +12,9 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+font-family: 'Itim', cursive;
+font-family: 'Libre Baskerville', serif;
 }
 
 html {
@@ -298,7 +304,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background:#6699CC;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -363,7 +369,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  background:#35809B;
 }
 
 .project-img {
@@ -379,7 +385,7 @@ article .icon {
 
 .project-btn {
   color: black;
-  border-color: rgb(163, 163, 163);
+  border-color: #3D99BB;
 }
 
 /* CONTACT */
@@ -396,7 +402,7 @@ article .icon {
   justify-content: center;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(244, 252, 255);
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
